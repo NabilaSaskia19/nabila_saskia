@@ -1,0 +1,129 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backgroundnew"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="65dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="44dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="44dp"
+        android:layout_marginEnd="60dp"
+        android:layout_marginBottom="676dp"
+        android:src="@drawable/donasibacaan" />
+
+    <ImageView
+        android:layout_width="27dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="352dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="27dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginBottom="663dp"
+        android:src="@drawable/titiktiga" />
+
+    <ImageView
+        android:layout_width="46dp"
+        android:layout_height="25dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="34dp"
+        android:layout_marginEnd="355dp"
+        android:layout_marginBottom="670dp"
+        android:src="@drawable/panah" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="71dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="11dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="102dp"
+        android:layout_marginEnd="190dp"
+        android:layout_marginBottom="612dp"
+        android:src="@drawable/td" />
+
+    <ImageView
+        android:layout_width="364dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="33dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="178dp"
+        android:layout_marginEnd="13dp"
+        android:layout_marginBottom="135dp"
+        android:src="@drawable/kelompokgambar" />
+
+    <ImageView
+        android:layout_width="74dp"
+        android:layout_height="60dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="625dp"
+        android:layout_marginEnd="327dp"
+        android:layout_marginBottom="44dp"
+        android:src="@drawable/pluscircle" />
+
+    <ImageView
+        android:layout_width="373dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="9dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="-2dp"
+        android:layout_marginEnd="11dp"
+        android:layout_marginBottom="741dp"
+        android:src="@drawable/jamdansinyal" />
+
+    <ImageView
+        android:layout_width="410dp"
+        android:layout_height="94dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="-13dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="705dp"
+        android:layout_marginEnd="-3dp"
+        android:layout_marginBottom="-14dp"
+        android:src="@drawable/mp" />
+
+
+
+
+
+
+
+
+
